@@ -1,3 +1,5 @@
+![UI](https://github.com/BrianScotty/AirBnB_clone/assets/133222271/e2ac42a5-ca39-4776-9a26-b527290e41d2)
+
 # AirBnB Clone - Web Static
 
 ![AirBnB Clone Overview](./images/UI.png)
